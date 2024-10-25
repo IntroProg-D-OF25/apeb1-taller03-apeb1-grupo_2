@@ -1,10 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/p8edw_FL)
-# Taller3
-* Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
+
 
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio1.png)
+public class Ejercico1 {
+    public static void main(String[] args) {
+        int v1, v2, v3, v4, v5, v6;
+        double respuest;
+        v1 = 1;
+        v2 = 2;
+        v3 = 3;
+        v4 = 5;
+        v5 = 5;
+        v6 = 81;
+        respuest =((v1+v2+v3+v4)/v5) + Math.sqrt(v6);
+        System.out.println("respuest = " + respuest);
+                
+    }
+    
+}
 
 ### Ejercicio02
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio02
