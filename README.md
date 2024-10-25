@@ -47,12 +47,4 @@
 
 ### Ejercicio09
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio09
-- En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio9.png)
-
-
-### Ejercicio10
-- Crear un proyecto en el IDE Netbeans llamado Ejercicio10
-- En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-
-> ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio10.png)
+- En el método principal, **main**,  de la 
