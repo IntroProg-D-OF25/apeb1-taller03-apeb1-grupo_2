@@ -10,18 +10,16 @@
 public class Ejercicio1 {
     public static void main(String[] args) {
         int v1, v2, v3, v4, v5, v6;
-        double rospt;
+        double respuest;
         v1 = 1;
         v2 = 2;
-        v3 = 4;
-        v4 = 3;
+        v3 = 3;
+        v4 = 5;
         v5 = 5;
         v6 = 81;
-        rospt - { (v1+v2+v3+v4) / v5 ) + Math.sqrt(v6);
-        System.out.println("rospt = " + rospt);
+        respuest =((v1+v2+v3+v4)/v5) + Math.sqrt(v6);
+        System.out.println("respuest = " + respuest);
+                
     }
-        
-    }
-            
     
 }
